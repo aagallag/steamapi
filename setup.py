@@ -9,7 +9,7 @@ def local_requirements():
     install_reqs = list(filter(None, req_list))
     return install_reqs
 
-setup(name='steamapi',
+setup(name='steamapi-aagallag',
       version='0.1.1',
       description='An object-oriented Python 2.7+ library for accessing the Steam Web API',
       url='https://github.com/aagallag/steamapi',
